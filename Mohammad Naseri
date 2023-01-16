@@ -1,0 +1,4 @@
+remark = Mohammad Naseri
+version = 1.0
+vless://ed661c41-83e5-46b1-db7a-21ec1996ff66@germany.delta-vpn.ga:100?type=tcp&security=xtls&flow=xtls-rprx-direct#Mohammad%20Naseri
+vless://271571d7-46aa-4b77-9f4f-3269dd853e77@tunnel.delta-vpn.ga:120?type=tcp&security=xtls&flow=xtls-rprx-direct#Mohammad%20Naseri%20Tunnel
