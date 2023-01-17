@@ -1,0 +1,1 @@
+vless://c340c31c-249a-4166-c030-8da70eaf3640@germany.delta-vpn.ml:2095?type=tcp&security=xtls&flow=xtls-rprx-direct#Ark
