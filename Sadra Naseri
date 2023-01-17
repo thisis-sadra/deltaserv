@@ -1,3 +1,0 @@
-version = 1.0
-vless://ba1a8573-6f13-43d8-c7bb-64ebe8c88325@germany.delta-vpn.ga:443?type=tcp&security=xtls&flow=xtls-rprx-direct#Sadra%20Naseri
-vless://75499301-79cd-4eeb-d320-e6b71e3ce3a8@tunnel.delta-vpn.ga:444?type=tcp&security=xtls&flow=xtls-rprx-direct#Sadra%20Naseri%20Tunnel
