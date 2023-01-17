@@ -1,0 +1,2 @@
+vless://d794b8ef-ac2e-47a1-efd5-c290aab78457@germany.delta-vpn.ml:200?type=tcp&security=xtls&flow=xtls-rprx-direct#Delta%20VPN
+vless://4450a730-9a03-48aa-ced5-5b724a031623@tunnel.delta-vpn.ml:210?type=tcp&security=xtls&flow=xtls-rprx-direct#Delta%20VPN%20Tunnel
