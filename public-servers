@@ -1,4 +1,4 @@
-trojan://3CKEFob8w7@germany.delta-vpn.ga:49156#DELTA-trojan
+trojan://3CKEFob8w7@germany.delta-vpn.ga:49156#DELTA-Trojan
 trojan://pTN2J7Ts8i@tunnel.delta-vpn.ga:41158#DELTA-Trojan-Tunnel
 vless://c0a547f5-deb3-4b48-8d16-5cff222af3d1@germany.delta-vpn.ga:49157?type=tcp&security=xtls&flow=xtls-rprx-direct#DELTA-VLESS
 vless://cad5bce5-f325-4020-92fa-b6f870c2ab91@tunnel.delta-vpn.ga:41159?type=tcp&security=xtls&flow=xtls-rprx-direct#DELTA-VLESS-Tunnel
