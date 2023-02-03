@@ -1,3 +1,4 @@
-vless://d794b8ef-ac2e-47a1-efd5-c290aab78457@germany.delta-vpn.ml:200?type=tcp&security=xtls&flow=xtls-rprx-direct#Delta%20VPN
-vless://4450a730-9a03-48aa-ced5-5b724a031623@tunnel.delta-vpn.ml:210?type=tcp&security=xtls&flow=xtls-rprx-direct#Delta%20VPN%20Tunnel
-vless://188cceca-e41e-4c09-b3ab-4cf4d7b7531b@iran.delta-vpn.ml:49153?type=tcp&security=xtls&flow=xtls-rprx-direct#Delta%20VPN%20Iran
+trojan://3CKEFob8w7@germany.delta-vpn.ga:49156#DELTA-trojan
+trojan://pTN2J7Ts8i@tunnel.delta-vpn.ga:41158#DELTA-Trojan-Tunnel
+vless://c0a547f5-deb3-4b48-8d16-5cff222af3d1@germany.delta-vpn.ga:49157?type=tcp&security=xtls&flow=xtls-rprx-direct#DELTA-VLESS
+vless://cad5bce5-f325-4020-92fa-b6f870c2ab91@tunnel.delta-vpn.ga:41159?type=tcp&security=xtls&flow=xtls-rprx-direct#DELTA-VLESS-Tunnel
