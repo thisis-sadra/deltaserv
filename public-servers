@@ -1,2 +1,2 @@
 vless://4f54f2a8-fa7a-4b8a-9b1c-802b4dd73337@serv1.delta-vpn.ml:49154?type=tcp&security=xtls&flow=xtls-rprx-direct#DELTA%20VPN
-vless://9cea93bb-58ff-4157-e24e-1daec5b6ce54@serv1.delta-vpn.ml:46155?type=tcp&security=xtls&flow=xtls-rprx-direct#DELTA%20VPN%20Tunnel
+vless://9cea93bb-58ff-4157-e24e-1daec5b6ce54@serv2.delta-vpn.ml:46155?type=tcp&security=xtls&flow=xtls-rprx-direct#DELTA%20VPN%20Tunnel
